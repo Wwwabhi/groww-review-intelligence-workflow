@@ -55,6 +55,7 @@ Review evidence:
 - Review `r93`: <https://play.google.com/store/apps/details?id=com.nextbillion.groww&reviewId=8004dbbf-58ed-44da-82f4-24e03a6afc6c>
 - Review `r291`: <https://play.google.com/store/apps/details?id=com.nextbillion.groww&reviewId=56a483ac-134a-46bd-8170-88255778c1f2>
 
-## Before publishing the workflow exports
 
-The exported workflows may contain personal email addresses, Google Doc identifiers or URLs, MCP endpoint paths, and account-specific settings. Replace those with placeholders or remove them before making the repository public. Do not commit API keys, access tokens, or credential secrets.
+
+
+
